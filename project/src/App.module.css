@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+/* .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 75vh;
+  width: 95vw;
+  border: 2.5vh solid lawngreen;
+} */

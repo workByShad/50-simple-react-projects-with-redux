@@ -1,0 +1,9 @@
+.cardContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 75vh;
+  width: 85vw;
+  border: 1rem solid gray;
+  background-color: beige;
+}

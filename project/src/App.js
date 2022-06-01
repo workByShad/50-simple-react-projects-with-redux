@@ -1,10 +1,13 @@
 import React, { Fragment } from 'react';
-import './App.css';
+import AppCSS from './App.module.css';
+import CardContainer from './components/CardContainer';
 
 function App() {
   return (
     <Fragment>
-      <h1>hello world.</h1>
+      <div className={AppCSS.container}>
+        <CardContainer />
+      </div>
     </Fragment>
   );
 }
